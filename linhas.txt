@@ -1,0 +1,2 @@
+python -m venv nomeDoProjeto
+nome do projeto\Scripts\activ   
